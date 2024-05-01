@@ -1,11 +1,8 @@
 #!/usr/bin/env python3
-
 from sklearn.cluster import DBSCAN, HDBSCAN, AgglomerativeClustering, MeanShift, estimate_bandwidth
 from sklearn.mixture import GaussianMixture
 from sklearn.metrics import davies_bouldin_score, silhouette_score, calinski_harabasz_score
 from itertools import product
-
-# Function to perform a grid search over DBSCAN parameters
 
 
 def clustering_grid_search(X, algorithm, param_grid):

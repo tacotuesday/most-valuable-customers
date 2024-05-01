@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 import plotly.graph_objects as go
 
+
 def plot_2d(df, x_axis, y_axis, labels, title):
-    """_summary_
+    """Helper function to easily create interactive 2D plots using Plotly.
 
     :param df: DataFrame containing the columns to plot
     :type df: object
@@ -11,10 +12,10 @@ def plot_2d(df, x_axis, y_axis, labels, title):
     :param y_axis: Y-axis column name
     :type y_axis: str
     :param labels: Cluster labels from clustering algorithm
-    :type labels: str
+    :type labels: numpy.ndarray
     :param title: Plot title
     :type title: str
-    """    
+    """
     fig = go.Figure(data=go.Scatter(
         x=df[x_axis],
         y=df[y_axis],
