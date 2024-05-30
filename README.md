@@ -36,3 +36,6 @@ Based on this analysis, actionable strategies include:
 - Introduce incentives for customers making more than 3-8 purchases per year to encourage more frequent interactions.
 
 We can leverage these strategies to boost engagement and spending among other segments identified in the general population and significantly impact our bottom line. Looking at our customer base more broadly, we identified seven scenarios with one or more clusters that are prime targets for cross-selling and upselling. Depending on the business' and marketing department's priorities, we could leverage many of the strategies above to engage with any number of these segments. I recommend a phased approach to implementation, starting with pilot programs in high-performing regions to gauge effectiveness and adjust tactics as needed. This approach would allow us to adapt dynamically to varying market conditions. Continuous data monitoring and regular updates to the strategy will be crucial to adapt to changing customer preferences and market conditions, as well as a measured approach to investigating additional cross-selling and up-selling opportunities.
+
+## Contact
+Grafton Cook, project and technical lead: [LinkedIn](https://www.linkedin/in/graftoncook)
