@@ -57,6 +57,6 @@ Key findings from the analysis include:
 
 ## Licensing, Authors, and Acknowledgements
 
-* You can find me on LinkedIn at [https://www.linkedin.com/in/graftoncook](https://www.linkedin.com/in/graftoncook).
 * Data source: Online Retail Customer Churn Dataset on Kaggle (simulated for this project)
 * This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+* Connect with me on [LinkedIn](https://www.linkedin.com/in/graftoncook)!
