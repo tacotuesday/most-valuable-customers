@@ -57,8 +57,6 @@ Key findings from the analysis include:
    - Loyalty program implementation
    - Concierge customer service for high-value customers
 
-For a detailed discussion of the results, check out the [blog post](link-to-blog-post).
-
 ## Licensing, Authors, and Acknowledgements
 
 * Data source: Online Retail Customer Churn Dataset on Kaggle (simulated for this project)
