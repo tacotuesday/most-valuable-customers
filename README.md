@@ -15,11 +15,11 @@ This project analyzes customer data for Summit Outfitters, a premium outdoor gea
 ## Installation
 
 This project requires Python 3.x and the following Python libraries:
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- scikit-learn
+- `pandas`
+- `numpy`
+- `matplotlib`
+- `seaborn`
+- `scikit-learn`
 
 You can install these packages using pip:
 ```bash
