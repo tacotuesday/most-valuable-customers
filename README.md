@@ -47,8 +47,6 @@ Key findings from the analysis include:
    - Total spend: $7,552-$9,226
    - Purchase frequency: 3-8 times per year
 
-[Insert visual here: A multi-panel chart showing distributions of age, income, total spend, and purchase frequency for top customers]
-
 2. Identified several customer segments prime for cross-selling and up-selling
 
 3. Developed actionable strategies including:
@@ -59,5 +57,6 @@ Key findings from the analysis include:
 
 ## Licensing, Authors, and Acknowledgements
 
+* You can find me on LinkedIn at [https://www.linkedin.com/in/graftoncook](https://www.linkedin.com/in/graftoncook).
 * Data source: Online Retail Customer Churn Dataset on Kaggle (simulated for this project)
 * This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
