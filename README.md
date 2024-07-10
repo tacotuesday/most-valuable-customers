@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes customer data for Summit Outfitters, a premium outdoor gear company, to identify the most valuable customers and explore cross-selling and up-selling opportunities.
+This project analyzes customer data for Summit Outfitters, a premium outdoor gear company, to identify the most valuable customers and explore cross-selling and up-selling opportunities. To read more about this project, check out my blog post [Unlocking Customer Value: A Data-Driven Approach for Summit Outfitters](https://tacotuesday.github.io/projects/unlocking-customer-value).
 
 ## Table of Contents
 
